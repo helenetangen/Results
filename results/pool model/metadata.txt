@@ -1,0 +1,23 @@
+KusiakEvaluator        : KusiakEvaluator
+adultPopulationSize    : 200
+parentPopulationSize   : 50
+childPopulationSize    : 200
+generations            : 200
+crossoverRate          : 0.9
+elitism                : true
+flipMutationRate       : 0.001
+inversionMutaitonRate  : 0.000001
+interchangeMutationRate: 0.000001
+adultSelectioni        : None
+tournamentSize         : 40
+epsilon                : 0.1
+parentSelection        : tournamentselection
+crossover              : singlePointCrossover
+
+Pool model:
+numberOfWorkers        : 4
+Scenarios: 
+- 00.xml
+- 05.xml
+- obs_00.xml
+- obs_05.xml
