@@ -19,3 +19,6 @@ Scenarios:
 - 05.xml
 - obs_00.xml
 - obs_05.xml
+
+
+Adults: 100 - Parent selection: 20 out of 100 = 20%
